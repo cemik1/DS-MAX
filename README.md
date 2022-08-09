@@ -1,0 +1,2 @@
+# DS-MAX
+OneWire DS18S20, DS18B20, DS1822, MAX31888, MAX30207 Temperature Example 
